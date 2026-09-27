@@ -1,0 +1,44 @@
+:root {
+  --ink: #24322b;
+  --paper: #fff;
+  --paper-deep: #ded1b7;
+  --red: #b84b38;
+  --site-grey: #6e6e6e;
+  --site-white: #fff;
+  --font-sans: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  background: var(--paper);
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: var(--font-sans);
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+button, a { -webkit-tap-highlight-color: transparent; }
+
+button, input, textarea, select { font: inherit; }
+
+:focus-visible {
+  outline: 3px solid #e88448;
+  outline-offset: 4px;
+}
+
+::selection {
+  color: #fffaf0;
+  background: #576f57;
+}

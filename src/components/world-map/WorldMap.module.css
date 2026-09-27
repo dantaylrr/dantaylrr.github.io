@@ -1,0 +1,260 @@
+.root {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.viewport {
+  position: absolute !important;
+  inset: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  overflow: hidden !important;
+  background: #c6dbcf;
+  cursor: grab;
+  overscroll-behavior: contain;
+}
+
+.viewport:active { cursor: grabbing; }
+
+.viewport:focus-visible {
+  outline: 2px solid rgba(61, 90, 67, 0.56);
+  outline-offset: -2px;
+}
+.canvas {
+  width: 100%;
+  height: 100%;
+}
+
+/* While the map is moving we drop the expensive SVG drop-shadow/blur filters so
+   each frame doesn't have to re-rasterise them; they're restored the moment it
+   settles, so the resting appearance is unchanged. (We deliberately do NOT use
+   will-change/layer promotion here: promoting mid-motion caused a one-off jump
+   on the first interaction, and promoting the vector base softens its edges.) */
+.canvas.interacting .forestIcon,
+.canvas.interacting .mountainIcon,
+.canvas.interacting .oceanIcon,
+.canvas.interacting .landmark,
+.canvas.interacting .markerDot,
+.canvas.interacting .markerLabel path,
+.canvas.interacting .terrain {
+  filter: none;
+}
+
+.map {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  filter: saturate(0.88) contrast(1.02);
+  touch-action: none;
+}
+
+.landShadow { fill: rgba(42, 67, 49, 0.22); }
+
+.land {
+  fill: #bdc487;
+  stroke: #726844;
+  stroke-width: 1;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.landTexture {
+  pointer-events: none;
+}
+
+.iceLand {
+  fill: #eef2e8;
+  stroke: #647868;
+  stroke-width: 1.1;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+
+.graticule {
+  fill: none;
+  stroke: #557f7b;
+  stroke-width: 0.55;
+  stroke-dasharray: 2 5;
+  opacity: 0.22;
+}
+
+.borders {
+  fill: none;
+  stroke: #7c7150;
+  stroke-width: 0.34;
+  stroke-linejoin: round;
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+.terrain {
+  filter: url("#terrain-soft");
+  pointer-events: none;
+}
+
+.desert {
+  fill: #e0cd8d;
+  opacity: 0.5;
+}
+
+.terrainFill {
+  pointer-events: none;
+}
+
+.forestIcon {
+  fill: #5f7f43;
+  stroke: #3c5330;
+  stroke-width: 0.55;
+  stroke-linejoin: round;
+  filter: url("#soft-shadow");
+}
+
+.mountainIcon {
+  stroke: #6f5c42;
+  stroke-width: 0.7;
+  stroke-linejoin: round;
+  filter: url("#soft-shadow");
+}
+
+.mountainFace { fill: #c1a983; }
+.mountainShadow { fill: #9c8462; stroke: none; }
+
+.mountainSnow {
+  fill: #f6efe0;
+  stroke-width: 0.4;
+}
+
+.oceanIcon {
+  opacity: 0.82;
+  filter: url("#soft-shadow");
+}
+
+.shipHull {
+  fill: #8a6f4e;
+  stroke: #5f4c34;
+  stroke-width: 0.6;
+  stroke-linejoin: round;
+}
+
+.shipSail {
+  fill: #f2e8cf;
+  stroke: #b7a67f;
+  stroke-width: 0.6;
+  stroke-linejoin: round;
+}
+
+.shipMast { stroke: #5f4c34; stroke-width: 0.8; fill: none; }
+
+.whale { fill: #7f959c; stroke: #5f767d; stroke-width: 0.6; stroke-linejoin: round; }
+.whaleEye { fill: #34424a; stroke: none; }
+.whaleSpout { fill: none; stroke: #9fb3b8; stroke-width: 0.9; stroke-linecap: round; }
+
+.landmark {
+  stroke-width: 0.55;
+  stroke-linejoin: round;
+  filter: url("#soft-shadow");
+}
+
+/* Sandstone — Pyramids */
+.lmSand { fill: #d7b673; stroke: #a37e3c; }
+.lmSandShade { fill: #b8964f; stroke: none; }
+
+/* White marble — Taj Mahal, Sydney Opera House */
+.lmMarble { fill: #f2ece0; stroke: #bfb298; }
+.lmMarbleShade { fill: #ded4bf; stroke: #bfb298; }
+
+/* Weathered concrete — Christ the Redeemer */
+.lmConcrete { fill: #d5cebf; stroke: #a49b86; }
+
+/* Copper patina — Statue of Liberty */
+.lmPatina { fill: #7bab92; stroke: #4d7b64; }
+.lmPatinaStroke { fill: none; stroke: #4d7b64; stroke-width: 0.7; stroke-linecap: round; }
+.lmPatinaArm { fill: none; stroke: #7bab92; stroke-width: 1.5; stroke-linecap: round; }
+.lmFlame { fill: #eab453; stroke: #bd851f; }
+
+/* Stone pedestals shared across monuments */
+.lmStone { fill: #b7ac93; stroke: #8b7f66; }
+
+/* Red-and-white lattice — Tokyo Tower */
+.lmTowerRed { fill: #dd5a34; stroke: #a53f22; }
+.lmTowerWhite { fill: #f4efe6; stroke: none; }
+.lmTowerLattice { fill: none; stroke: #a53f22; stroke-width: 0.55; stroke-linecap: round; }
+
+.oceanLabel {
+  fill: #486f70;
+  font-family: var(--font-sans);
+  font-size: 10px;
+  font-weight: 300;
+  font-style: italic;
+  letter-spacing: 0.14em;
+  text-transform: lowercase;
+  opacity: 0.66;
+  pointer-events: none;
+}
+
+.marker { color: #a54132; text-decoration: none; cursor: pointer; }
+.markerHit { fill: transparent; }
+.markerDot { fill: #b84b38; stroke: #f5e4bd; stroke-width: 1.6; filter: url("#soft-shadow"); }
+.markerLabel path { fill: #b84b38; stroke: #5f2f28; stroke-width: 1.5; filter: url("#soft-shadow"); }
+.markerLabel circle { fill: #f3d6a2; }
+.marker text {
+  fill: #25342c;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 400;
+  paint-order: stroke;
+  stroke: #dae3d2;
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+
+.marker:hover .markerDot, .marker:focus-visible .markerDot { fill: #dd6b51; }
+
+.controls {
+  position: absolute;
+  z-index: 30;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  display: flex;
+  overflow: hidden;
+  border: 1px solid rgba(53, 74, 60, 0.32);
+  border-radius: 999px;
+  background: rgba(244, 239, 220, 0.86);
+  box-shadow: 0 5px 22px rgba(41, 61, 48, 0.12);
+  backdrop-filter: blur(9px);
+}
+
+.controls button {
+  width: 2.6rem;
+  height: 2.6rem;
+  border: 0;
+  border-right: 1px solid rgba(53, 74, 60, 0.2);
+  color: #32443a;
+  background: transparent;
+  font-size: 1.2rem;
+  font-weight: 300;
+  cursor: pointer;
+}
+
+.controls button:last-child { border-right: 0; }
+.controls button:hover { background: rgba(255, 255, 255, 0.5); }
+
+.note {
+  position: fixed;
+  z-index: 30;
+  bottom: 1.7rem;
+  left: 1.6rem;
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 300;
+  font-style: italic;
+  text-transform: lowercase;
+}
+
+@media (max-width: 700px) {
+  .controls { right: 1.25rem; bottom: 1.25rem; }
+  .note { max-width: 9rem; }
+}

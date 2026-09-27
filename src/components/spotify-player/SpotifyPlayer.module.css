@@ -1,0 +1,46 @@
+.embed {
+  width: 100%;
+}
+
+/* Spotify replaces the inner div with its own iframe; round its corners. */
+.embed :global(iframe) {
+  border: none;
+  border-radius: 12px;
+}
+
+/* Floating, site-wide play/pause pinned to the top-left corner. */
+.toggle {
+  position: fixed;
+  top: 1.25rem;
+  left: 1.25rem;
+  z-index: 50;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border: 1px solid rgba(36, 50, 43, 0.28);
+  border-radius: 999px;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(8px);
+  cursor: pointer;
+  transition: opacity 160ms ease, background 160ms ease, transform 160ms ease, color 160ms ease;
+}
+
+.toggle:hover {
+  color: #1db954; /* Spotify green on hover */
+  background: rgba(255, 255, 255, 0.9);
+  transform: translateY(-1px);
+}
+
+.toggle:disabled {
+  opacity: 0.4;
+  cursor: default;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .toggle { transition: none; }
+}
