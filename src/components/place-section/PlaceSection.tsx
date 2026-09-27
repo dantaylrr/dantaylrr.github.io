@@ -78,9 +78,19 @@ export function PlaceSection({ place, index }: { place: Place; index: number }) 
             <ul className={styles.preview}>
               {preview.map((photo) => (
                 <li key={photo.id} className={styles.thumb}>
-                  {/* Natural-size so portrait/landscape keep their real shape. */}
+                  {/* Natural-size so portrait/landscape keep their real shape.
+                      width/height carry the real ratio so space is reserved up
+                      front (no layout shift). Lazy — previews sit well below the
+                      fold, under the hero/about/map. */}
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={photo.src} alt={photo.alt} loading="lazy" decoding="async" />
+                  <img
+                    src={photo.src}
+                    alt={photo.alt}
+                    width={1000}
+                    height={Math.round(1000 * photo.ratio)}
+                    loading="lazy"
+                    decoding="async"
+                  />
                 </li>
               ))}
             </ul>

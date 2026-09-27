@@ -33,10 +33,15 @@
   box-shadow: 0 12px 30px rgba(30, 30, 30, 0.14), 0 2px 6px rgba(30, 30, 30, 0.1);
 }
 
-.photo:hover {
-  z-index: 2;
-  transform: translateY(-4px) scale(1.01);
-  filter: saturate(1.04);
+/* Only apply the lift on devices with a true hovering pointer (a mouse).
+   On touch, a scrolling thumb passing over a photo would otherwise trigger
+   this transform and flicker. Desktop hover is unchanged. */
+@media (hover: hover) {
+  .photo:hover {
+    z-index: 2;
+    transform: translateY(-4px) scale(1.01);
+    filter: saturate(1.04);
+  }
 }
 
 /* ---- Lightbox ---- */

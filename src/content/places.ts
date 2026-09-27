@@ -26,6 +26,7 @@ type PlaceMeta = Omit<Place, "photos">;
 const placeMeta: PlaceMeta[] = [
   { slug: "london", name: "London", country: "England", coordinates: [-0.1276, 51.5072], accent: "#b84b38" },
   { slug: "sheffield", name: "Sheffield", country: "England", coordinates: [-1.4701, 53.3811], accent: "#356f59" },
+  { slug: "isle-of-wight", name: "Isle of Wight", country: "England", coordinates: [-1.3047, 50.6938], accent: "#b84b38" },
   { slug: "paris", name: "Paris", country: "France", coordinates: [2.3522, 48.8566], accent: "#b84b38" },
   { slug: "reims", name: "Reims", country: "France", coordinates: [4.0347, 49.2583], accent: "#b84b38" },
   { slug: "strasbourg", name: "Strasbourg", country: "France", coordinates: [7.7521, 48.5734], accent: "#b84b38" },
@@ -107,7 +108,7 @@ const COUNTRY_ORDER = [
 // sheffield → london → newcastle → dartmouth); every other country is largest
 // city first. Any slug not listed sorts to the end of its country.
 const CITY_ORDER: Record<string, string[]> = {
-  England: ["sheffield", "london", "newcastle", "dartmouth"],
+  England: ["sheffield", "london", "isle-of-wight", "newcastle", "dartmouth"],
   Japan: ["tokyo", "osaka", "kyoto", "hiroshima", "kanazawa", "nara", "mt-fuji"],
   France: ["paris", "marseille", "lyon", "toulouse", "nice", "strasbourg", "bordeaux", "reims", "aix-en-provence", "saint-tropez", "saint-cirq-lapopie"],
   Italy: ["rome", "milan", "palermo", "genoa", "florence", "venice", "lake-como", "cefalu", "taormina", "cinque-terre", "scopello", "portofino"],

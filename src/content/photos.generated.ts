@@ -3174,6 +3174,120 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "isle-of-wight": [
+    {
+      "id": "01",
+      "src": "/images/places/isle-of-wight/01.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.51
+    },
+    {
+      "id": "02",
+      "src": "/images/places/isle-of-wight/02.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.51
+    },
+    {
+      "id": "03",
+      "src": "/images/places/isle-of-wight/03.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/isle-of-wight/04.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/isle-of-wight/05.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/isle-of-wight/06.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/isle-of-wight/07.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/isle-of-wight/08.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/isle-of-wight/09.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/isle-of-wight/10.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/isle-of-wight/11.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/isle-of-wight/12.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/isle-of-wight/13.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/isle-of-wight/14.jpg",
+      "alt": "isle of wight",
+      "caption": "isle of wight",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "kanazawa": [
     {
       "id": "01",
@@ -3964,86 +4078,6 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
     {
       "id": "14",
       "src": "/images/places/london/14.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "15",
-      "src": "/images/places/london/15.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.78
-    },
-    {
-      "id": "16",
-      "src": "/images/places/london/16.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "17",
-      "src": "/images/places/london/17.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "18",
-      "src": "/images/places/london/18.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "19",
-      "src": "/images/places/london/19.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "20",
-      "src": "/images/places/london/20.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "21",
-      "src": "/images/places/london/21.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "22",
-      "src": "/images/places/london/22.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "23",
-      "src": "/images/places/london/23.jpg",
-      "alt": "london",
-      "caption": "london",
-      "orientation": "portrait",
-      "ratio": 1.33
-    },
-    {
-      "id": "24",
-      "src": "/images/places/london/24.jpg",
       "alt": "london",
       "caption": "london",
       "orientation": "portrait",

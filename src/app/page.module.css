@@ -97,10 +97,13 @@
   transition: gap 180ms ease, background 180ms ease, transform 180ms ease;
 }
 
-.enter:hover {
-  gap: 1.75rem;
-  background: rgba(10, 30, 41, 0.34);
-  transform: translateY(-2px);
+/* Mouse-only lift — avoids a touch-scroll/tap triggering (and sticking) it. */
+@media (hover: hover) {
+  .enter:hover {
+    gap: 1.75rem;
+    background: rgba(10, 30, 41, 0.34);
+    transform: translateY(-2px);
+  }
 }
 
 /* Location label follows the media: Sicily (video) on mobile, Sheffield (image)
@@ -210,10 +213,12 @@
   transition: opacity 160ms ease, color 160ms ease, transform 160ms ease;
 }
 
-.socials a:hover {
-  color: var(--red);
-  opacity: 1;
-  transform: translateY(-2px);
+@media (hover: hover) {
+  .socials a:hover {
+    color: var(--red);
+    opacity: 1;
+    transform: translateY(-2px);
+  }
 }
 
 /* Spotify playlist embed, sat between the about grid and the Explore button. */

@@ -43,9 +43,20 @@ export function PhotoBoard({ photos, placeName }: { photos: Photo[]; placeName: 
             aria-label={`View photograph from ${placeName}`}
           >
             {/* Natural-size image so portrait/landscape are preserved (no crop);
-                next/image's fill can't do intrinsic aspect without known dims. */}
+                next/image's fill can't do intrinsic aspect without known dims.
+                width/height carry the real ratio (height ÷ width) so the browser
+                reserves the correct box up front — no layout shift as photos load.
+                The first few are eager + high-priority (they're above the fold). */}
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={photo.src} alt={placeName} loading="lazy" decoding="async" />
+            <img
+              src={photo.src}
+              alt={placeName}
+              width={1000}
+              height={Math.round(1000 * photo.ratio)}
+              loading={index < 3 ? "eager" : "lazy"}
+              fetchPriority={index === 0 ? "high" : undefined}
+              decoding="async"
+            />
           </button>
         ))}
       </section>
