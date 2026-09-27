@@ -61,7 +61,6 @@ const placeMeta: PlaceMeta[] = [
   { slug: "malmo", name: "Malmö", country: "Sweden", coordinates: [13.0038, 55.605], accent: "#b84b38" },
   { slug: "prague", name: "Prague", country: "Czechia", coordinates: [14.4378, 50.0755], accent: "#b84b38" },
   { slug: "kitzbuhel", name: "Kitzbühel", country: "Austria", coordinates: [12.3924, 47.4467], accent: "#b84b38" },
-  { slug: "lake-bled", name: "Lake Bled", country: "Slovenia", coordinates: [14.0937, 46.3625], accent: "#b84b38" },
   { slug: "ljubljana", name: "Ljubljana", country: "Slovenia", coordinates: [14.5058, 46.0569], accent: "#b84b38" },
   { slug: "zagreb", name: "Zagreb", country: "Croatia", coordinates: [15.9819, 45.815], accent: "#b84b38" },
   { slug: "budapest", name: "Budapest", country: "Hungary", coordinates: [19.0402, 47.4979], accent: "#b84b38" },
@@ -116,7 +115,7 @@ const CITY_ORDER: Record<string, string[]> = {
   Mexico: ["mexico-city", "cancun"],
   Germany: ["berlin", "hamburg", "munich", "cologne", "frankfurt", "heidelberg", "black-forest"],
   Austria: ["vienna", "kitzbuhel"],
-  Slovenia: ["ljubljana", "lake-bled"],
+  Slovenia: ["ljubljana"],
 };
 
 const countryRank = (place: Place) => {

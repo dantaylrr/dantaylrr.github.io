@@ -151,12 +151,14 @@
   margin: 0;
   font-size: 0.92rem;
   font-weight: 300;
+  font-style: italic; /* reads like a narrated origin-story aside */
   line-height: 1.65;
   text-align: right;
   color: var(--site-grey);
 }
 
-.oldText em { font-style: italic; color: var(--ink); }
+/* The 'nowt interesting' punchline: bold + upright against the italic so it lands. */
+.oldText em { font-weight: 600; font-style: normal; color: var(--ink); }
 
 .aboutGrid {
   display: grid;
@@ -189,7 +191,6 @@
   margin: 0;
   font-size: 1rem;
   font-weight: 300;
-  font-style: italic;
   line-height: 1.7;
   color: var(--site-grey);
 }

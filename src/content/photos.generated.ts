@@ -240,6 +240,468 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "athens": [
+    {
+      "id": "01",
+      "src": "/images/places/athens/01.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/athens/02.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/athens/03.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/athens/04.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/athens/05.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/athens/06.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/athens/07.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/athens/08.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/athens/09.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/athens/10.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/athens/11.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/athens/12.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/athens/13.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/athens/14.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/athens/15.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "16",
+      "src": "/images/places/athens/16.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "17",
+      "src": "/images/places/athens/17.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "18",
+      "src": "/images/places/athens/18.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "19",
+      "src": "/images/places/athens/19.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "20",
+      "src": "/images/places/athens/20.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "21",
+      "src": "/images/places/athens/21.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "22",
+      "src": "/images/places/athens/22.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "23",
+      "src": "/images/places/athens/23.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "24",
+      "src": "/images/places/athens/24.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "25",
+      "src": "/images/places/athens/25.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "26",
+      "src": "/images/places/athens/26.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "27",
+      "src": "/images/places/athens/27.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "28",
+      "src": "/images/places/athens/28.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "29",
+      "src": "/images/places/athens/29.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "30",
+      "src": "/images/places/athens/30.jpg",
+      "alt": "athens",
+      "caption": "athens",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "berlin": [
+    {
+      "id": "01",
+      "src": "/images/places/berlin/01.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/berlin/02.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/berlin/03.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/berlin/04.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/berlin/05.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/berlin/06.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/berlin/07.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/berlin/08.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/berlin/09.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/berlin/10.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/berlin/11.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/berlin/12.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/berlin/13.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/berlin/14.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/berlin/15.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "16",
+      "src": "/images/places/berlin/16.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "17",
+      "src": "/images/places/berlin/17.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "18",
+      "src": "/images/places/berlin/18.jpg",
+      "alt": "berlin",
+      "caption": "berlin",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "black-forest": [
+    {
+      "id": "01",
+      "src": "/images/places/black-forest/01.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/black-forest/02.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/black-forest/03.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/black-forest/04.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/black-forest/05.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/black-forest/06.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/black-forest/07.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/black-forest/08.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/black-forest/09.jpg",
+      "alt": "black forest",
+      "caption": "black forest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "bordeaux": [
     {
       "id": "01",
@@ -358,6 +820,138 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "src": "/images/places/bordeaux/15.jpg",
       "alt": "bordeaux",
       "caption": "bordeaux",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "bratislava": [
+    {
+      "id": "01",
+      "src": "/images/places/bratislava/01.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/bratislava/02.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "04",
+      "src": "/images/places/bratislava/04.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/bratislava/03.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "05",
+      "src": "/images/places/bratislava/05.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/bratislava/06.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "08",
+      "src": "/images/places/bratislava/08.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/bratislava/07.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "09",
+      "src": "/images/places/bratislava/09.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/bratislava/10.jpg",
+      "alt": "bratislava",
+      "caption": "bratislava",
+      "orientation": "landscape",
+      "ratio": 0.75
+    }
+  ],
+  "budapest": [
+    {
+      "id": "01",
+      "src": "/images/places/budapest/01.jpg",
+      "alt": "budapest",
+      "caption": "budapest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/budapest/02.jpg",
+      "alt": "budapest",
+      "caption": "budapest",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "03",
+      "src": "/images/places/budapest/03.jpg",
+      "alt": "budapest",
+      "caption": "budapest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/budapest/04.jpg",
+      "alt": "budapest",
+      "caption": "budapest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/budapest/05.jpg",
+      "alt": "budapest",
+      "caption": "budapest",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/budapest/06.jpg",
+      "alt": "budapest",
+      "caption": "budapest",
       "orientation": "portrait",
       "ratio": 1.33
     }
@@ -1306,6 +1900,160 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "cologne": [
+    {
+      "id": "01",
+      "src": "/images/places/cologne/01.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "17",
+      "src": "/images/places/cologne/17.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "02",
+      "src": "/images/places/cologne/02.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/cologne/03.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/cologne/04.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/cologne/05.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/cologne/06.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/cologne/07.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/cologne/08.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/cologne/09.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/cologne/10.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/cologne/11.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/cologne/12.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/cologne/13.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/cologne/14.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/cologne/15.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "16",
+      "src": "/images/places/cologne/16.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "18",
+      "src": "/images/places/cologne/18.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "19",
+      "src": "/images/places/cologne/19.jpg",
+      "alt": "cologne",
+      "caption": "cologne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "copenhagen": [
     {
       "id": "01",
@@ -1734,6 +2482,72 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "frankfurt": [
+    {
+      "id": "01",
+      "src": "/images/places/frankfurt/01.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/frankfurt/02.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/frankfurt/03.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/frankfurt/04.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/frankfurt/05.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/frankfurt/06.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/frankfurt/07.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/frankfurt/08.jpg",
+      "alt": "frankfurt",
+      "caption": "frankfurt",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "genoa": [
     {
       "id": "01",
@@ -1804,6 +2618,226 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "src": "/images/places/genoa/09.jpg",
       "alt": "genoa",
       "caption": "genoa",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "hamburg": [
+    {
+      "id": "01",
+      "src": "/images/places/hamburg/01.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/hamburg/14.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "02",
+      "src": "/images/places/hamburg/02.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/hamburg/03.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/hamburg/04.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/hamburg/05.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/hamburg/06.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/hamburg/07.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/hamburg/08.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/hamburg/09.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/hamburg/10.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/hamburg/11.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/hamburg/12.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/hamburg/13.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/hamburg/15.jpg",
+      "alt": "hamburg",
+      "caption": "hamburg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "heidelberg": [
+    {
+      "id": "01",
+      "src": "/images/places/heidelberg/01.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/heidelberg/02.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/heidelberg/03.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/heidelberg/04.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/heidelberg/05.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/heidelberg/06.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/heidelberg/07.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/heidelberg/08.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/heidelberg/09.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/heidelberg/10.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/heidelberg/11.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/heidelberg/12.jpg",
+      "alt": "heidelberg",
+      "caption": "heidelberg",
       "orientation": "portrait",
       "ratio": 1.33
     }
@@ -2278,6 +3312,96 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "kitzbuhel": [
+    {
+      "id": "01",
+      "src": "/images/places/kitzbuhel/01.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/kitzbuhel/02.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/kitzbuhel/03.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/kitzbuhel/04.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/kitzbuhel/05.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/kitzbuhel/06.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/kitzbuhel/07.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/kitzbuhel/08.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/kitzbuhel/09.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/kitzbuhel/10.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/kitzbuhel/11.jpg",
+      "alt": "kitzbuhel",
+      "caption": "kitzbuhel",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "kyoto": [
     {
       "id": "01",
@@ -2610,6 +3734,128 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "ljubljana": [
+    {
+      "id": "01",
+      "src": "/images/places/ljubljana/01.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/ljubljana/06.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "02",
+      "src": "/images/places/ljubljana/02.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/ljubljana/08.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "03",
+      "src": "/images/places/ljubljana/03.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/ljubljana/09.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "04",
+      "src": "/images/places/ljubljana/04.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/ljubljana/10.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "05",
+      "src": "/images/places/ljubljana/05.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/ljubljana/12.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "07",
+      "src": "/images/places/ljubljana/07.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/ljubljana/13.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "11",
+      "src": "/images/places/ljubljana/11.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/ljubljana/14.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/ljubljana/15.jpg",
+      "alt": "ljubljana",
+      "caption": "ljubljana",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "london": [
     {
       "id": "05",
@@ -2804,6 +4050,88 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "lucerne": [
+    {
+      "id": "01",
+      "src": "/images/places/lucerne/01.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/lucerne/02.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/lucerne/03.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/lucerne/04.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/lucerne/05.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/lucerne/06.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/lucerne/07.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/lucerne/08.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/lucerne/09.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/lucerne/10.jpg",
+      "alt": "lucerne",
+      "caption": "lucerne",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "lyon": [
     {
       "id": "01",
@@ -2834,6 +4162,40 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "src": "/images/places/lyon/04.jpg",
       "alt": "lyon",
       "caption": "lyon",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "malmo": [
+    {
+      "id": "01",
+      "src": "/images/places/malmo/01.jpg",
+      "alt": "malmo",
+      "caption": "malmo",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/malmo/02.jpg",
+      "alt": "malmo",
+      "caption": "malmo",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/malmo/03.jpg",
+      "alt": "malmo",
+      "caption": "malmo",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/malmo/04.jpg",
+      "alt": "malmo",
+      "caption": "malmo",
       "orientation": "portrait",
       "ratio": 1.33
     }
@@ -3402,6 +4764,128 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "src": "/images/places/mt-fuji/10.jpg",
       "alt": "mt fuji",
       "caption": "mt fuji",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "munich": [
+    {
+      "id": "01",
+      "src": "/images/places/munich/01.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/munich/05.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "02",
+      "src": "/images/places/munich/02.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/munich/06.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "03",
+      "src": "/images/places/munich/03.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/munich/07.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "04",
+      "src": "/images/places/munich/04.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/munich/08.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "09",
+      "src": "/images/places/munich/09.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/munich/11.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "10",
+      "src": "/images/places/munich/10.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/munich/12.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "13",
+      "src": "/images/places/munich/13.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/munich/14.jpg",
+      "alt": "munich",
+      "caption": "munich",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/munich/15.jpg",
+      "alt": "munich",
+      "caption": "munich",
       "orientation": "portrait",
       "ratio": 1.33
     }
@@ -4198,6 +5682,250 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "src": "/images/places/portofino/13.jpg",
       "alt": "portofino",
       "caption": "portofino",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "prague": [
+    {
+      "id": "01",
+      "src": "/images/places/prague/01.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/prague/02.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/prague/03.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/prague/04.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/prague/05.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/prague/06.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/prague/07.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/prague/08.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/prague/09.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/prague/10.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/prague/11.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/prague/12.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/prague/13.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/prague/14.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/prague/15.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "16",
+      "src": "/images/places/prague/16.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "17",
+      "src": "/images/places/prague/17.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "18",
+      "src": "/images/places/prague/18.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "19",
+      "src": "/images/places/prague/19.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "20",
+      "src": "/images/places/prague/20.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "21",
+      "src": "/images/places/prague/21.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "22",
+      "src": "/images/places/prague/22.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "23",
+      "src": "/images/places/prague/23.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "24",
+      "src": "/images/places/prague/24.jpg",
+      "alt": "prague",
+      "caption": "prague",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "reims": [
+    {
+      "id": "01",
+      "src": "/images/places/reims/01.jpg",
+      "alt": "reims",
+      "caption": "reims",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/reims/02.jpg",
+      "alt": "reims",
+      "caption": "reims",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/reims/03.jpg",
+      "alt": "reims",
+      "caption": "reims",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/reims/04.jpg",
+      "alt": "reims",
+      "caption": "reims",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/reims/05.jpg",
+      "alt": "reims",
+      "caption": "reims",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/reims/06.jpg",
+      "alt": "reims",
+      "caption": "reims",
       "orientation": "portrait",
       "ratio": 1.33
     }
@@ -5560,6 +7288,64 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "strasbourg": [
+    {
+      "id": "01",
+      "src": "/images/places/strasbourg/01.jpg",
+      "alt": "strasbourg",
+      "caption": "strasbourg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/strasbourg/02.jpg",
+      "alt": "strasbourg",
+      "caption": "strasbourg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/strasbourg/03.jpg",
+      "alt": "strasbourg",
+      "caption": "strasbourg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/strasbourg/04.jpg",
+      "alt": "strasbourg",
+      "caption": "strasbourg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "05",
+      "src": "/images/places/strasbourg/05.jpg",
+      "alt": "strasbourg",
+      "caption": "strasbourg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/strasbourg/06.jpg",
+      "alt": "strasbourg",
+      "caption": "strasbourg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/strasbourg/07.jpg",
+      "alt": "strasbourg",
+      "caption": "strasbourg",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "taormina": [
     {
       "id": "01",
@@ -6248,6 +8034,256 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "ratio": 1.33
     }
   ],
+  "vienna": [
+    {
+      "id": "04",
+      "src": "/images/places/vienna/04.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "01",
+      "src": "/images/places/vienna/01.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "05",
+      "src": "/images/places/vienna/05.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/vienna/02.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "06",
+      "src": "/images/places/vienna/06.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "03",
+      "src": "/images/places/vienna/03.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "07",
+      "src": "/images/places/vienna/07.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/vienna/08.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "09",
+      "src": "/images/places/vienna/09.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "10",
+      "src": "/images/places/vienna/10.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "11",
+      "src": "/images/places/vienna/11.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "12",
+      "src": "/images/places/vienna/12.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "13",
+      "src": "/images/places/vienna/13.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "14",
+      "src": "/images/places/vienna/14.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/vienna/15.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "16",
+      "src": "/images/places/vienna/16.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "17",
+      "src": "/images/places/vienna/17.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "18",
+      "src": "/images/places/vienna/18.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "19",
+      "src": "/images/places/vienna/19.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "20",
+      "src": "/images/places/vienna/20.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "21",
+      "src": "/images/places/vienna/21.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "22",
+      "src": "/images/places/vienna/22.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "23",
+      "src": "/images/places/vienna/23.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "24",
+      "src": "/images/places/vienna/24.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "25",
+      "src": "/images/places/vienna/25.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "26",
+      "src": "/images/places/vienna/26.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "27",
+      "src": "/images/places/vienna/27.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "28",
+      "src": "/images/places/vienna/28.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "29",
+      "src": "/images/places/vienna/29.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "30",
+      "src": "/images/places/vienna/30.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "31",
+      "src": "/images/places/vienna/31.jpg",
+      "alt": "vienna",
+      "caption": "vienna",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
   "yosemite": [
     {
       "id": "01",
@@ -6446,6 +8482,72 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "src": "/images/places/yosemite/25.jpg",
       "alt": "yosemite",
       "caption": "yosemite",
+      "orientation": "portrait",
+      "ratio": 1.33
+    }
+  ],
+  "zagreb": [
+    {
+      "id": "01",
+      "src": "/images/places/zagreb/01.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "02",
+      "src": "/images/places/zagreb/02.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "03",
+      "src": "/images/places/zagreb/03.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "04",
+      "src": "/images/places/zagreb/04.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
+      "orientation": "landscape",
+      "ratio": 0.75
+    },
+    {
+      "id": "05",
+      "src": "/images/places/zagreb/05.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "06",
+      "src": "/images/places/zagreb/06.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "07",
+      "src": "/images/places/zagreb/07.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "08",
+      "src": "/images/places/zagreb/08.jpg",
+      "alt": "zagreb",
+      "caption": "zagreb",
       "orientation": "portrait",
       "ratio": 1.33
     }

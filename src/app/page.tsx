@@ -10,7 +10,6 @@ import styles from "./page.module.css";
 const mePhotos = [
   { src: "/images/about/me-5.jpg", alt: "Daniel" },
   { src: "/images/about/me-1.jpg", alt: "Daniel" },
-  { src: "/images/about/me-2.jpg", alt: "Daniel" },
   { src: "/images/about/me-3.jpg", alt: "Daniel" },
   { src: "/images/about/me-4.jpg", alt: "Daniel" },
   { src: "/images/about/me-6.jpg", alt: "Daniel" },
@@ -90,7 +89,7 @@ export default function HomePage() {
           photography - whether that be of people, places, or both. this fascination
           resulted in me buying my first ever camera, an original fuji x100, to which
           people often questioned: &lsquo;what are you gna take pictures of?&rsquo; - of
-          which my reply would always be: <em>&lsquo;nowt interesting&rsquo;</em>
+          which my reply would always be: <em>nowt interesting</em>
         </p>
 
         <div className={styles.aboutGrid}>
@@ -100,7 +99,12 @@ export default function HomePage() {
 
           <div className={styles.aboutText}>
             <p className={styles.aboutMeLabel}>about me</p>
-            <p className={styles.aboutMe}>a proper introduction is on its way.</p>
+            <p className={styles.aboutMe}>
+              29 year old born &amp; raised in sheffield &amp; now living in london. solution
+              architect at databricks by day &amp; exploring ways to stay creative where
+              possible. this website functions entirely as a place to dump my own memories from
+              all over the world. enjoy, or don&apos;t :)
+            </p>
             <ul className={styles.socials} aria-label="Social links">
               {socials.map((social) => (
                 <li key={social.label}>
