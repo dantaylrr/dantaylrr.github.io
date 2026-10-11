@@ -76,6 +76,12 @@ const placeMeta: PlaceMeta[] = [
   { slug: "nara", name: "Nara", country: "Japan", coordinates: [135.8048, 34.6851], accent: "#b84b38" },
   { slug: "hiroshima", name: "Hiroshima", country: "Japan", coordinates: [132.4553, 34.3853], accent: "#b84b38" },
   { slug: "seoul", name: "Seoul", country: "South Korea", coordinates: [126.978, 37.5665], accent: "#b84b38" },
+  // November trip (placeholders until photos arrive):
+  { slug: "hong-kong", name: "Hong Kong", country: "Hong Kong", coordinates: [114.1694, 22.3193], accent: "#b84b38" },
+  { slug: "macau", name: "Macau", country: "Macau", coordinates: [113.5439, 22.1987], accent: "#b84b38" },
+  { slug: "guangzhou", name: "Guangzhou", country: "China", coordinates: [113.2644, 23.1291], accent: "#b84b38" },
+  { slug: "taiwan", name: "Taiwan", country: "Taiwan", coordinates: [121.5654, 25.033], accent: "#b84b38" },
+  { slug: "singapore", name: "Singapore", country: "Singapore", coordinates: [103.8198, 1.3521], accent: "#b84b38" },
   { slug: "cancun", name: "Cancún", country: "Mexico", coordinates: [-86.8515, 21.1619], accent: "#b84b38" },
   { slug: "mexico-city", name: "Mexico City", country: "Mexico", coordinates: [-99.1332, 19.4326], accent: "#b84b38" },
   { slug: "san-francisco", name: "San Francisco", country: "United States", coordinates: [-122.4194, 37.7749], accent: "#b84b38" },
@@ -97,7 +103,10 @@ const rawPlaces: Place[] = placeMeta.map((meta) => ({
 // Countries in the order their sections appear down the page. The first block
 // is the requested order; the rest follow in any order.
 const COUNTRY_ORDER = [
-  "England", "Japan", "South Korea", "Netherlands", "France", "Italy",
+  "England",
+  // Asia block (Nov trip ordering): Japan → HK → Macau → Seoul → Guangzhou → Taiwan → Singapore
+  "Japan", "Hong Kong", "Macau", "South Korea", "China", "Taiwan", "Singapore",
+  "Netherlands", "France", "Italy",
   "United States", "Mexico", "Germany", "Iceland", "Denmark", "Sweden",
   "Austria", "Greece",
   // others, any order:
