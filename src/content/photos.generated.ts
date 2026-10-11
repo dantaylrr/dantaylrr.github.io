@@ -4082,6 +4082,30 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
       "caption": "london",
       "orientation": "portrait",
       "ratio": 1.33
+    },
+    {
+      "id": "15",
+      "src": "/images/places/london/15.jpg",
+      "alt": "london",
+      "caption": "london",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "16",
+      "src": "/images/places/london/16.jpg",
+      "alt": "london",
+      "caption": "london",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "17",
+      "src": "/images/places/london/17.jpg",
+      "alt": "london",
+      "caption": "london",
+      "orientation": "portrait",
+      "ratio": 1.33
     }
   ],
   "lucerne": [
@@ -7316,6 +7340,126 @@ export const GENERATED_PHOTOS: Record<string, GeneratedPhoto[]> = {
     {
       "id": "16",
       "src": "/images/places/sheffield/16.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "17",
+      "src": "/images/places/sheffield/17.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "18",
+      "src": "/images/places/sheffield/18.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "19",
+      "src": "/images/places/sheffield/19.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.78
+    },
+    {
+      "id": "20",
+      "src": "/images/places/sheffield/20.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "21",
+      "src": "/images/places/sheffield/21.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "22",
+      "src": "/images/places/sheffield/22.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "23",
+      "src": "/images/places/sheffield/23.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "24",
+      "src": "/images/places/sheffield/24.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "25",
+      "src": "/images/places/sheffield/25.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "26",
+      "src": "/images/places/sheffield/26.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "27",
+      "src": "/images/places/sheffield/27.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "28",
+      "src": "/images/places/sheffield/28.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "29",
+      "src": "/images/places/sheffield/29.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "30",
+      "src": "/images/places/sheffield/30.jpg",
+      "alt": "sheffield",
+      "caption": "sheffield",
+      "orientation": "portrait",
+      "ratio": 1.33
+    },
+    {
+      "id": "31",
+      "src": "/images/places/sheffield/31.jpg",
       "alt": "sheffield",
       "caption": "sheffield",
       "orientation": "portrait",
